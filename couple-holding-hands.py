@@ -19,3 +19,6 @@ class Solution:
             dic[nex]=target_idx
             result+=1
         return result
+
+
+# O(n) solution used hashmap
